@@ -43,3 +43,7 @@ plt.xlabel("Years of experince")
 plt.ylabel("Salary")
 plt.show()
 
+#making single prediction 
+print("Predicting the data for single set ")
+print(regressor.predict([[13]]))
+
