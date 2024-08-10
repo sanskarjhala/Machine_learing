@@ -11,7 +11,7 @@
 
 <h4>3. Homoscedasticity of Residuals or Equal Variances</h4>
 <p>Homoscedasity is the term that states that the spread residuals which we are getting from the linear regression model should be homogeneous or equal spaces. If the spread of the residuals is heterogeneous then the model is called to be an unsatisfactory model.</p>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221104123858/SatisfactoryUnsatisfactoryModel.png" alt="picture represting Equal variance>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221104123858/SatisfactoryUnsatisfactoryModel.png" alt="picture represting Equal variance" >
 
 
 <h4>4. No Autocorrelation in residuals</h4>
